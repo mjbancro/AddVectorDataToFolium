@@ -1,0 +1,1 @@
+This script is best displayed with this Jupyter Notebook Viewer link: [Add Vector Data To Folium](https://nbviewer.org/github/mjbancro/AddVectorDataToFolium/blob/JupyterNbViewer/World_UTM_Grid/UTM_Zones_On_Folium_Map.ipynb)
