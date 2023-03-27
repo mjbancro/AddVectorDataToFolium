@@ -1,2 +1,2 @@
-This script is best displayed with this Jupyter Notebook Viewer link: [Add Vector Data To Folium](https://nbviewer.org/github/mjbancro/AddVectorDataToFolium/blob/JupyterNbViewer/World_UTM_Grid/UTM_Zones_On_Folium_Map.ipynb)
+This script is best displayed with this Jupyter Notebook Viewer link: [Add Vector Data To Folium](https://nbviewer.org/github/mjbancro/AddVectorDataToFolium/blob/JupyterNbViewer/World_UTM_Grid/UTM_Zones_On_Folium_Map.ipynb)  
 Alternative (albeit less customizable) method is best displayed with this link: [Geopandas interactive viewer](https://github.dev/mjbancro/AddVectorDataToFolium/blob/JupyterNbViewer/World_UTM_Grid/InteractiveMapWithGeopandas.ipynb)
